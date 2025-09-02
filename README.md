@@ -6,9 +6,9 @@
 ---
 
 ## 📁 Project Structure
-├─ CaliforniaHousePricesWork.ipynb
-├─ data
-└─ README.md
+- ├─ CaliforniaHousePricesWork.ipynb
+- ├─ data
+- └─ README.md
 
 ---
 
