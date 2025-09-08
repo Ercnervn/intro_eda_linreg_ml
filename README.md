@@ -27,7 +27,7 @@
 
 ---
 
-## 📊 Results (from the notebook) / Sonuçlar (notebook'tan)
+## 📊 Results / Sonuçlar
 | Model | MAE | RMSE | R² |
 |---|---:|---:|---:|
 | Linear Regression | 53152.41 | 73453.84 | 0.60 |
